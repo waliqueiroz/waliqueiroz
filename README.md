@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wali Queiroz</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working at **B2W Digital.**
+- 🔭 I’m currently working at **Americanas S.A.**
 
-- 🌱 I’m currently learning **TDD, Golang and Kubernetes.**
+- 🌱 I’m currently learning **Clean Architecture, Golang and Kubernetes.**
 
 - 💬 Ask me about **Vue and Laravel.**
 
